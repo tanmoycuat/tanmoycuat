@@ -2,17 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoycuat&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoycuat" /> </p>
 
-- 🌱 I’m currently learning **[technology or tools you're learning]**
+- 🌱 I’m currently learning **[Cursor, AI Agents, Blockchain, Crypto]**
 
 - 👨‍💻 All of my projects are available at [your portfolio or GitHub repository links]
 
 - 📝 I regularly write articles on [your blog or medium link]
 
-- 💬 Ask me about **[topics you are knowledgeable about]**
+- 💬 Ask me about **[AI, Data, Reports]**
 
-- 📫 How to reach me **[your email address]**
+- 📫 How to reach me **tanmoycuat@gmail.com**
 
-- 📄 Know about my experiences [your resume link]
+- 📄 Know about my experiences [(https://tanmoycuat.github.io/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

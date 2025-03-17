@@ -12,13 +12,13 @@
 
 - 📫 How to reach me **tanmoycuat@gmail.com**
 
-- 📄 Know about my experiences [(https://tanmoycuat.github.io/)]
+- 📄 Know about my experiences [https://tanmoycuat.github.io/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-handle" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-handle" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanmoysantra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmoysantra" height="30" width="40" /></a>
+<a href="https://twitter.com/tanmoycuat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmoycuat" height="30" width="40" /></a>
+<a href="https://instagram.com/tanmoysantra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanmoysantra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

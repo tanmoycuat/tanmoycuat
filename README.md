@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoycuat&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoycuat" /> </p>
 
-- 🌱 I’m currently learning **[Cursor, AI Agents, Blockchain, Crypto]**
+- 🌱 I’m currently learning **Cursor, AI Agents, Blockchain, Crypto**
 
 - 👨‍💻 All of my projects are available at [your portfolio or GitHub repository links]
 
-- 📝 I regularly write articles on [your blog or medium link]
+- 📝 I regularly write articles on [https://medium.com/@tanmoycuat]
 
-- 💬 Ask me about **[AI, Data, Reports]**
+- 💬 Ask me about **AI, Data, Reports, Product **
 
 - 📫 How to reach me **tanmoycuat@gmail.com**
 

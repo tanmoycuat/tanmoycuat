@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Cursor, AI Agents, Blockchain, Crypto**
 
-- 👨‍💻 All of my projects are available at [your portfolio or GitHub repository links]
+- 👨‍💻 All of my projects are available at [(https://github.com/tanmoycuat?tab=repositories)]
 
 - 📝 I regularly write articles on [https://medium.com/@tanmoycuat]
 
-- 💬 Ask me about **AI, Data, Reports, Product **
+- 💬 Ask me about **AI, Data, Reports, Product Development**
 
 - 📫 How to reach me **tanmoycuat@gmail.com**
 

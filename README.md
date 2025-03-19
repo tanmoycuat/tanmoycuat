@@ -4,15 +4,15 @@
 
 - 🌱 I’m currently learning **Cursor, AI Agents, Blockchain, Crypto**
 
-- 👨‍💻 All of my projects are available at [(https://github.com/tanmoycuat?tab=repositories)]
+- 👨‍💻 All of my projects are available at https://github.com/tanmoycuat?tab=repositories
 
-- 📝 I regularly write articles on [https://medium.com/@tanmoycuat]
+- 📝 I regularly write articles on https://medium.com/@tanmoycuat
 
 - 💬 Ask me about **AI, Data, Reports, Product Development**
 
 - 📫 How to reach me **https://linktr.ee/tanmoycuat**
 
-- 📄 Know about my experiences [https://tanmoycuat.github.io/]
+- 📄 Know about my experiences https://tanmoycuat.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoycuat&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoycuat" /> </p>
 
-- 🌱 I’m currently learning **Cursor, AI Agents, Blockchain, Crypto**
+- 🌱 I’m currently learning **Cursor, AI Agents, Blockchain, Crypto, Cyber Security, Mixed reality (MR), Humanoid robotic**
 
 - 👨‍💻 All of my projects are available at https://github.com/tanmoycuat?tab=repositories
 

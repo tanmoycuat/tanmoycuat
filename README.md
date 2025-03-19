@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **AI, Data, Reports, Product Development**
 
-- 📫 How to reach me **tanmoycuat@gmail.com**
+- 📫 How to reach me **https://linktr.ee/tanmoycuat**
 
 - 📄 Know about my experiences [https://tanmoycuat.github.io/]
 

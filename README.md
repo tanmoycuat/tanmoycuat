@@ -29,4 +29,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> </a> 
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/> </a> 
+
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/tanmoycuat/tanmoycuat/main.yml)
+![GitHub Stars](https://img.shields.io/github/stars/tanmoycuat/tanmoycuat)
+
 </p>

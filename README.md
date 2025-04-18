@@ -2,6 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoycuat&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoycuat" /> </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+collaboration." alt="Typing Animation" />
+</p>
+
 - 🌱 I’m currently learning **Cursor, AI Agents, Blockchain, Crypto, Cyber Security, Mixed reality (MR), Humanoid robot**
 
 - 👨‍💻 All of my projects are available at https://github.com/tanmoycuat?tab=repositories
@@ -33,5 +37,4 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/tanmoycuat/tanmoycuat/main.yml)
 ![GitHub Stars](https://img.shields.io/github/stars/tanmoycuat/tanmoycuat)
 
-![GitHub Metrics](https://github.com/tanmoycuat/tanmoycuat/blob/main/github-metrics.svg)
 </p>

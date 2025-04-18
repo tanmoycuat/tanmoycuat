@@ -32,5 +32,6 @@
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/tanmoycuat/tanmoycuat/main.yml)
 ![GitHub Stars](https://img.shields.io/github/stars/tanmoycuat/tanmoycuat)
-![GitHub Metrics](https://github.com/<your-username>/<your-username>/blob/main/github-metrics.svg)
+
+![GitHub Metrics](https://github.com/tanmoycuat/tanmoycuat/blob/main/github-metrics.svg)
 </p>

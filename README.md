@@ -12,13 +12,11 @@
 
 - 📝 I regularly write articles on https://medium.com/@tanmoycuat
 
-- 💬 Ask me about **AI, Data, Reports, Product Development**
-
 - 📫 How to reach me **https://linktr.ee/tanmoycuat**
 
-- 📄 Know about my experiences https://tanmoycuat.github.io/
+- 💬 Ask me about **AI, Data, Reports, Product Development**
 
-- 📄 Profile https://tanmoycuat.github.io/tanmoy-profile/
+- 📄 Know about my experiences https://tanmoycuat.github.io/ or https://tanmoycuat.github.io/tanmoy-profile/
 
 - 👨‍💻 AI projects are available at https://huggingface.co/tanmoycuat
 

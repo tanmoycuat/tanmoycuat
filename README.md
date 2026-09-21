@@ -18,7 +18,9 @@
 
 - 📄 Know about my experiences https://tanmoycuat.github.io/
 
-- 📄 Profile https://tanmoycuat.github.io/tanmoy-profile/ 
+- 📄 Profile https://tanmoycuat.github.io/tanmoy-profile/
+
+- 👨‍💻 AI projects are available at https://huggingface.co/tanmoycuat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

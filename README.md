@@ -20,7 +20,7 @@
 
 - 👨‍💻 AI projects are available at https://huggingface.co/tanmoycuat
 
-- Badges https://www.credly.com/users/tanmoy-santra.a62a8ff4/badges/credly 
+- 📫 Badges https://www.credly.com/users/tanmoy.santra/edit/badges/credly
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
